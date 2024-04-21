@@ -19,7 +19,7 @@
 
     <link rel="canonical" href="https://demo-basic.adminkit.io/" />
 
-    <title>Dashboard - SI BKK</title>
+    <title>Dashboard - BKK Smk Asy</title>
 
 
     <link href="/dashboardassets/css/app.css" rel="stylesheet">
@@ -35,7 +35,7 @@
         <nav id="sidebar" class="sidebar js-sidebar">
             <div class="sidebar-content js-simplebar">
                 <a class="sidebar-brand" href="/">
-                    <span class="align-middle">SI BKK</span>
+                    <span class="align-middle">BKK SMK ASY</span>
                 </a>
 
                 <ul class="sidebar-nav">
@@ -211,26 +211,10 @@
             <footer class="footer">
                 <div class="container-fluid">
                     <div class="row text-muted">
-                        <div class="col-6 text-start">
+                        <div class="col-12 text-start">
                             <p class="mb-0">
-                                <a class="text-muted" href="/"><strong>SI BKK</strong></a> &copy;
+                                <a class="text-muted" href="/"><strong>&copy; BKK - SMK ASY SYAMSURIYYAH</strong></a>
                             </p>
-                        </div>
-                        <div class="col-6 text-end">
-                            <ul class="list-inline">
-                                <li class="list-inline-item">
-                                    <a class="text-muted" href="https://adminkit.io/" target="_blank">Support</a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a class="text-muted" href="https://adminkit.io/" target="_blank">Help Center</a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a class="text-muted" href="https://adminkit.io/" target="_blank">Privacy</a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a class="text-muted" href="https://adminkit.io/" target="_blank">Terms</a>
-                                </li>
-                            </ul>
                         </div>
                     </div>
                 </div>

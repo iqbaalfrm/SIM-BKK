@@ -9,7 +9,7 @@
         <div class="row gy-4 d-flex justify-content-between">
           <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
             <h2 data-aos="fade-up">{{ $titleHero }}</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Sistem Informasi BKK (Bursa Kerja Khusus) merupakan sebuah tempat untuk alumni dan non-alumni untuk mendapatkan pekerjaan</p>
+            <p data-aos="fade-up" data-aos-delay="100">Sistem Informasi BKK (Bursa Kerja Khusus) SMK Asy Syamsuriyyah merupakan sebuah tempat untuk alumni untuk mendapatkan pekerjaan.</p>
 
             <form action="#" class="form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
               <input type="text" class="form-control" placeholder="Cari Lowongan">
@@ -18,22 +18,22 @@
 
             <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
 
-              <div class="col-lg-3 col-6">
-                <div class="stats-item text-center w-100 h-100">
+              <div class="col-lg-3 col-3">
+                <div class="stats-item text-center w-50 h-50">
                   <span data-purecounter-start="0" data-purecounter-end="17" data-purecounter-duration="1" class="purecounter"></span>
                   <p>Lowongan</p>
                 </div>
               </div><!-- End Stats Item -->
 
-              <div class="col-lg-3 col-6">
-                <div class="stats-item text-center w-100 h-100">
+              <div class="col-lg-3 col-3">
+                <div class="stats-item text-center w-50 h-50">
                   <span data-purecounter-start="0" data-purecounter-end="445" data-purecounter-duration="1" class="purecounter"></span>
                   <p>Pendaftar</p>
                 </div>
               </div><!-- End Stats Item -->
 
-              <div class="col-lg-3 col-6">
-                <div class="stats-item text-center w-100 h-100">
+              <div class="col-lg-3 col-3">
+                <div class="stats-item text-center w-50 h-50">
                   <span data-purecounter-start="0" data-purecounter-end="480" data-purecounter-duration="1" class="purecounter"></span>
                   <p>Pengguna</p>
                 </div>
